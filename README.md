@@ -4,3 +4,6 @@ Este repositorio presenta la segunda parte de una guía introductoria para aplic
 
  <div <p><H3><b>Sesión 7: Segunda ley de la Termodinámica</b></div> 
   En esta sesión, calculamos el ΔS para el cambio de estado de un gas ideal. Después deberás obtener el diagrama ΔS Vs T para el proceso. En la segunda actividad, presentamos algunos conceptos de maquinas térmicas. En la tercera actividad realizamos un ajuste cúbico para obtener la ecuación de obtención del c<sub>p</sub>(T) para una sustancia específica. Después, deberás determinar el valor de ΔS para el calentamiento de la sustancia. En la cuarta actividad, usamos la biblioteca `pandas` para obtener la ecuación polinomial de 23 sustancias químicas almacenadas en un dataframe. Finalmente, deberás construir la grafica de c<sub>p</sub>(T) Vs T  y determinar el valor de ΔS para el calentamiento de una sustancia.
+ 
+   <div <H4><b></b> <a href="https://colab.research.google.com/github/wavallejol/ColabChem2/blob/main/Sesi%C3%B3n7_Segunda_Ley.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a></div>
+  <hr size="4" width="100%" color="red"> 

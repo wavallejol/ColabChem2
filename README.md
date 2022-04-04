@@ -7,7 +7,14 @@
  
 <div <H4><b> Puedes acceder a Colab por este link: </b> <a href="https://colab.research.google.com/github/wavallejol/ColabChem2/blob/main/Sesi%C3%B3n7_Segunda_Ley.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a></div>
   <hr size="4" width="100%" color="red"> 
- <div <p><H3><b>Sesión 8: Probabilidad Y Entropía</b></div> 
+  
+  <div <p><H3><b>Sesión 8: Máquina Térmica</b></div> 
+  <div align="justify">En esta sesión, revisaremos algunos conceptos básicos relacionados con las maquinas térmicas, se obtendra la curva típica del ciclo de carnot y se graficará la eficiencia de la maquina en función de la relación de las temperatuas entre las que opera la máquina.</div>
+ 
+<div <H4><b> Puedes acceder a Colab por este link: </b> <a href="https://colab.research.google.com/github/wavallejol/Entropy/blob/main/Sesi%C3%B3n8_MaquinaTermica.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a></div>
+  <hr size="4" width="100%" color="red"> 
+
+ <div <p><H3><b>Sesión 9: Probabilidad Y Entropía</b></div> 
   <div align="justify">En esta sesión, revisaremos algunos conceptos básicos de probabilidad y su uso en el calculo del valor de entropía. En la primera actividad revisaremos la distribución normal obtenida después de realizar el lanzamiento de dos dados un numero definido de veces. En la siguiente actividad se simulará el comporamiento de un número definido de partículas encerradas en una caja. Finalmente calcularemos la entropía del proceso redistribución de un número definido de particulas encerradas en una caja.</div>
  
 <div <H4><b> Puedes acceder a Colab por este link: </b> <a href="https://colab.research.google.com/github/wavallejol/Entropy/blob/main/Sesi%C3%B3n8_Probabilidad%26Entrop%C3%ADa.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a></div>
